@@ -20,7 +20,7 @@
     'ctrl-shift-r': 'existdb:file-symbols'
     'ctrl-alt-e': 'existdb:toggle-tree-view'
     'ctrl-alt-g': 'existdb:goto-definition'
-    'ctrl-shift-r': 'existdb:rename-variable'
+    'ctrl-alt-r': 'existdb:rename-variable'
     'alt-up': 'existdb:expand-selection'
 
 '.platform-win32 atom-workspace':
@@ -28,5 +28,5 @@
     'ctrl-shift-r': 'existdb:file-symbols'
     'ctrl-alt-e': 'existdb:toggle-tree-view'
     'ctrl-alt-g': 'existdb:goto-definition'
-    'ctrl-shift-r': 'existdb:rename-variable'
+    'ctrl-alt-r': 'existdb:rename-variable'
     'alt-up': 'existdb:expand-selection'
